@@ -1,0 +1,20 @@
+.schedule {
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+.btn1 {
+    width: 100px;
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+
+}
+
+.btn1 :hover {
+    background-color: turquoise;
+    
+}

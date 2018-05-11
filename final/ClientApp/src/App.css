@@ -1,0 +1,240 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+
+  padding: 20px;
+
+ 
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+.active {
+  background-color: #0099FF;
+}
+
+.Card{
+  border-style: solid;
+  border-color: #111;
+  margin-top: 20px;
+  height: 200px;
+  cursor: pointer;
+}
+.deleteBtn{
+  float: right;
+  margin-top: -20px;
+}
+
+.inputName{
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  margin-top: 20px;
+  width: 200px;
+  margin-left: 50px;
+  height: 20px;
+  text-align: center;
+   border-color:#696969;
+   padding: 12px 20px 12px 40px;
+}
+h1 {
+  margin-left: 250px;
+  padding-top: 50px;
+  color:white;
+}
+
+select {
+  width: 200px;
+  margin-left:50px;
+  margin-top: 20px;
+  height: 30px;
+}
+.fileInput{
+   box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 3px;
+  font-size: 15px;
+  margin-top: 20px;
+  width: 100px;
+  height: 35px;
+  border-color:rgba(204, 204, 204, 1);
+  
+  text-align: center;
+}
+.name {
+    margin-left: 30px;
+    min-width: 50px;
+    font-size: 25px;
+    font-family: 'FontAwesome'
+}
+.right {
+  background: @lightGreen;
+  padding-left: 0px;
+  padding-top: 60px;
+  width: 600px;
+  height: 400px;
+  background-color: #e6e6fa;
+  margin-left: 10px;
+ 
+}
+.right2 {
+  background: @lightGreen;
+  padding-left: 150px;
+  padding-top: 50px;
+  width: 300px;
+  height: 400px;
+   
+}
+.btn1{
+  height: 42px;
+  width: 60px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding-bottom: 1px;
+  background-color:rgba(204, 204, 204, 1);
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.newC {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 50px;
+
+  width: 200px;
+  height: 40px;
+  padding-left: 90px;
+}
+ul.header {background-color: #111;
+    padding: 0;
+    height: 60px;
+    width: 100%;
+}
+.newC {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 30px;
+  margin-right: 10px;
+  width: 200px;
+  height: 40px;
+}
+
+input[type="t"]{
+  float: right;
+}
+
+
+
+#btns {
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 200px;
+}
+
+body {
+  background:url("https://images.unsplash.com/photo-1518081461904-9d8f136351c2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8a815e999d0f593c8c8bbcb6473b0d39&auto=format&fit=crop&w=777&q=80") center center no-repeat fixed;
+background-size: cover;
+
+  background-size: cover;
+}
+
+
+.editt {
+  background-color: black;
+  height: 500px;
+  opacity: 0.8;
+  width: 400px;
+  margin-left:800px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+h3 {
+  margin-left: 100px;}
+
+
+  .tables {
+    background-color: white;
+    height: 300px;
+    width: 1450px;
+  }
+
+  .flex {
+    display: -webkit-flex; 
+    -webkit-justify-content: flex-start;
+    display: flex;
+    justify-content: center;
+    
+    }
+    
+    .flex-container > div {
+    
+      padding-bottom: 20px;
+    
+    }
+
+
+    p{ margin-left: 10px;}
+
+  
+
+    .NCard{
+      border-style: solid;
+      border-color: #111;
+    
+      background-color: white;
+      height: 200px;
+      cursor: pointer;
+      width: 500px;
+    }
+
+    .DDD {
+      margin-top: 40px;
+    }

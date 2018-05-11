@@ -1,0 +1,16 @@
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\obj\Debug\netcoreapp2.0\final.Test.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\obj\Debug\netcoreapp2.0\final.Test.AssemblyInfoInputs.cache
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\obj\Debug\netcoreapp2.0\final.Test.AssemblyInfo.cs
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.Test.deps.json
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.Test.runtimeconfig.json
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.Test.runtimeconfig.dev.json
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.Test.dll
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.Test.pdb
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.dll
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\bin\Debug\netcoreapp2.0\final.pdb
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\obj\Debug\netcoreapp2.0\final.Test.csproj.CopyComplete
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\obj\Debug\netcoreapp2.0\final.Test.dll
+C:\Users\андрей\Desktop\NET\lab8_new\MTestfinal\final.Test\obj\Debug\netcoreapp2.0\final.Test.pdb
